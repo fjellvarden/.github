@@ -2,9 +2,10 @@
 
 Small consulting firm. Strategy and web development.
 
-We listen, ask questions, then build. Every project is custom – we choose the right technology for the problem, not the other way around. Whether that's Astro, plain HTML, TypeScript, PHP, or something else entirely.
+We listen, ask questions, then build. Every project is custom – we choose the right technology for the problem, not the other way around. Whether that's Astro, plain HTML, eCommerce CMS, PHP, or something else entirely.
 
-We're not a template shop. We build websites and tools for businesses that want to move forward - fast, solid, and with purpose. Performance, accessibility, and clean code aren't afterthoughts. They're the baseline.
+We're not a template shop. We build websites and tools for businesses that want to move forward. Performance, accessibility, and clean code aren't afterthoughts. They're the baseline.
+
 
 ### Why we share code
 
@@ -19,7 +20,6 @@ Use it if it helps. Found an issue? Contributions are welcome.
 ### Rammewerk
 
 Our PHP libraries and components for custom projects. When we use PHP, we use these. Fast, solid, no shortcuts.
-
 ```
 composer require rammewerk/...
 ```
